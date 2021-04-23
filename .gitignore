@@ -1,0 +1,5 @@
+venv/
+sql/
+client/node_modules/
+geojson/
+node_modules/
